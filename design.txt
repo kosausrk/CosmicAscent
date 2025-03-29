@@ -1,0 +1,7 @@
+CosmicAscent/
+├── index.html
+├── script.js
+├── nasa_space_shuttle_endeavour.glb
+├── three.min.js
+├── GLTFLoader.js
+└── gsap.min.js
